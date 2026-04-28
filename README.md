@@ -1,87 +1,164 @@
 # Escudo Jurídico 24h
 
-AI-powered legal assistance platform designed to provide real-time support and access to justice for citizens, especially gig economy workers.
+AI-powered legal assistance platform providing real-time support and access to justice in critical situations.
 
 ---
 
-## Overview
+## 🚨 The Problem
 
-Escudo Jurídico 24h combines automation, AI, and legal frameworks to deliver immediate support in situations involving legal risk, police interactions, and small claims.
+Every day, thousands of citizens face police interactions without knowing their rights.
 
----
+Under pressure, small mistakes — saying too much, consenting to searches — can escalate into serious legal consequences.
 
-## Core Features
-
-- Emergency legal guidance (real-time support)
-- AI-assisted document generation
-- Jus Postulandi support for self-representation
-- Evidence organization system
-- Lead and case management workflows
+Accessing a lawyer in real time is often impossible.
 
 ---
 
-## Key Modules
+## 💡 The Solution
 
-### 1. Emergency Support System
-Provides real-time guidance in police interactions and critical situations.
+Escudo Jurídico 24h is a technology platform that provides:
 
-### 2. Jus Postulandi Assistant
-Enables users to act without a lawyer in small claims and labor cases.
+- Real-time legal guidance in critical situations  
+- AI-assisted support during high-stress moments  
+- Evidence recording and secure storage  
+- Access to legal frameworks for self-defense (Jus Postulandi)
+
+> Think of it as "legal protection in your pocket"
+
+---
+
+## ⚙️ How It Works
+
+1. User activates SOS button  
+2. System captures data (location, audio, context)  
+3. AI provides immediate guidance (non-legal advice)  
+4. Connection to available legal professional (when applicable)  
+5. All data is securely stored for evidence  
+
+---
+
+## 🧩 Core Modules
+
+### 1. Emergency Support
+Real-time guidance during police interactions
+
+### 2. AI First Response Layer
+Provides:
+- Right to remain silent reminders  
+- Behavioral guidance  
+- Situation awareness  
 
 ### 3. Evidence Management
-Organizes photos, audio, and geolocation data for legal use.
+- Audio/video recording  
+- Geolocation tracking  
+- Secure cloud storage  
 
-### 4. Case Automation Workflow
-Automates classification and handling of user cases.
+### 4. Jus Postulandi Assistant
+Enables users to act without a lawyer in:
+- Small claims (up to 20 minimum wages)
+- Labor complaints
+- Habeas Corpus situations  
 
 ---
 
-## System Architecture
+## ⚖️ Legal & Ethical Framework
+
+This project is designed as a **technology platform**, not a law firm.
+
+### Key Principles:
+
+- No legal representation by the platform  
+- No fee-sharing with lawyers  
+- AI provides only informational support  
+- Lawyers maintain full professional responsibility  
+
+### Legal Bases:
+
+- Jus Postulandi (CNJ guidelines)  
+- Habeas Corpus (constitutional right)  
+- Labor self-representation  
+
+---
+
+## 🛡️ Ethical Positioning
+
+To comply with Brazilian Bar Association (OAB):
+
+- The platform is positioned as a **legal support technology**
+- Not a "Uber for lawyers"
+- Subscription covers infrastructure, not legal fees
+
+---
+
+## 🎯 Target Market
+
+- Gig workers (Uber, delivery drivers)
+- Night shift workers
+- High-risk exposure professionals
+
+> +1.5 million drivers in Brazil alone
+
+---
+
+## 💰 Business Model
+
+- Subscription-based (monthly)
+- Low-cost access (approx. <$2/day)
+- Scalable SaaS model
+
+---
+
+## 🚀 Traction
+
+- MVP architecture defined (Node.js + React)
+- Workflow automation with n8n
+- Initial validation via landing page and user acquisition strategy
+
+---
+
+## 🧠 Competitive Advantage
+
+- Immediate response in critical situations  
+- AI-assisted triage reduces response time  
+- Evidence generation + legal structure  
+- Strong ethical/legal positioning  
+
+---
+
+## 🔮 Vision
+
+To become the standard platform for real-time legal protection and access to justice.
+
+---
+
+## 📊 System Architecture
 
 ![System Architecture](./diagrams/system_architecture.png)
 
 ---
 
-## Real Use Cases
+## 📁 Project Structure
+
+---
+
+## 🧪 Example Use Cases
 
 - Police stop situations  
 - Vehicle damage claims  
-- Platform-related disputes  
-- Labor complaints  
+- Platform disputes  
+- Emergency legal defense  
 
 ---
 
-## Legal Framework
-
-This project is based on Brazilian legal principles such as:
-
-- Jus Postulandi (CNJ guidelines)
-- Habeas Corpus rights
-- Small Claims Court procedures
-
----
-
-## Ethical Positioning
+## ⚠️ Disclaimer
 
 This platform does not replace legal professionals.
 
-It provides tools and information to empower users to exercise their legal rights independently.
+It provides tools and information to help users understand and exercise their rights.
 
 ---
 
-## Purpose
-
-To democratize access to legal protection through technology.
-
----
-
-## Status
-
-Concept + Prototype (Work in progress)
-
----
-
-## Author
+## 👤 Author
 
 Absalão Silva  
 Automation & AI Workflow Specialist
