@@ -157,12 +157,21 @@ This platform does not replace legal professionals.
 It provides tools and information to help users understand and exercise their rights.
 
 ---
-### Realistic Scenario Simulation
+## 🎥 Real-World Simulation
 
-This demo shows how the system behaves during a real-world police interaction scenario.
-## 🎥 Demo
+This demo demonstrates how the Escudo Jurídico 24h platform operates in a real emergency scenario.
 
-[Watch Simulation](./demo/simulation.mp4](https://drive.google.com/file/d/1D1GzFYdh0wxSJSEoo4C2ZswEe-CGmFVJ/view?usp=sharing)
+**Scenario:**  
+A user is stopped during a police interaction and activates the SOS feature.
+
+**System Response:**
+- Real-time activation via emergency trigger  
+- AI provides immediate rights-based guidance  
+- Workflow automation processes the situation  
+- Evidence (audio, location, context) is captured and stored securely  
+
+▶️ Watch the simulation:  
+https://drive.google.com/file/d/1D1GzFYdh0wxSJSEoo4C2ZswEe-CGmFVJ/view?usp=sharing
 
 ## 👤 Author
 
