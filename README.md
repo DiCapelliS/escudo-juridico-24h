@@ -171,7 +171,7 @@ A user is stopped during a police interaction and activates the SOS feature.
 - Evidence (audio, location, context) is captured and stored securely  
 
 ▶️ Watch the simulation:  
-https://drive.google.com/file/d/1D1GzFYdh0wxSJSEoo4C2ZswEe-CGmFVJ/view?usp=sharing
+<iframe src="https://drive.google.com/file/d/1D1GzFYdh0wxSJSEoo4C2ZswEe-CGmFVJ/preview" width="800" height="450" allow="autoplay"></iframe>
 
 ## 👤 Author
 
