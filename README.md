@@ -1,7 +1,19 @@
 # Escudo Jurídico 24h
 
 AI-powered legal assistance platform providing real-time support and access to justice in critical situations.
+<img width="1774" height="887" alt="Fluxo Automação SOS-App Escudo Juridico 24h" src="https://github.com/user-attachments/assets/524c2d57-98b3-40b7-a69a-72e92562e4bd" />
+### Workflow Summary
 
+This system is designed to handle real-time emergency scenarios:
+
+1. User activates SOS trigger  
+2. System captures contextual data (location, timestamp, event type)  
+3. AI agent analyzes the situation and generates initial guidance  
+4. Workflow distributes actions:
+   - Notify user  
+   - Alert legal professional  
+   - Store evidence securely  
+5. System updates case status in real-time  
 ---
 
 ## 🚨 The Problem
