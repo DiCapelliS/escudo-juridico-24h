@@ -157,12 +157,13 @@ This platform does not replace legal professionals.
 It provides tools and information to help users understand and exercise their rights.
 
 ---
-## 🎥 Demo
-
-[Watch Simulation]([./demo/simulation.mp4](https://drive.google.com/file/d/1D1GzFYdh0wxSJSEoo4C2ZswEe-CGmFVJ/view?usp=sharing))
 ### Realistic Scenario Simulation
 
 This demo shows how the system behaves during a real-world police interaction scenario.
+## 🎥 Demo
+
+[Watch Simulation](./demo/simulation.mp4](https://drive.google.com/file/d/1D1GzFYdh0wxSJSEoo4C2ZswEe-CGmFVJ/view?usp=sharing)
+
 ## 👤 Author
 
 Absalão Silva  
